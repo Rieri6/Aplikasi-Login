@@ -1,4 +1,4 @@
-# Login-application
+# Aplikasi-Login
 Sebuah aplikasi login sederhana.
 
 Alur fitur login :
